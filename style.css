@@ -1,0 +1,19 @@
+.my_nav_bar
+{
+    position: sticky;
+    top:0;
+    z-index: 99999;
+}
+li
+{
+    color: blue;
+    font-size: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+    margin-top: 10px;
+}
+#home
+{
+width: 100%;
+}
